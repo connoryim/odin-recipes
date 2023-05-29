@@ -1,0 +1,35 @@
+ul {
+    color: rgb(224, 219, 219);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+ol {
+    color: rgb(187, 180, 180);
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    transform: translate(-50%);
+    margin-left: 50%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(233, 233, 233);
+}
+
+.description {
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
