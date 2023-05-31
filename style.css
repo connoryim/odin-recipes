@@ -33,3 +33,19 @@ body{
     font-weight: 900;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    color: forestgreen;
+    font-size: 20px;
+}
+
+.blueborder{
+    background-color: rgb(51, 66, 94);
+    padding: 20px;
+    margin: 20px
+}
+
+li{
+    margin: 10px;
+}
